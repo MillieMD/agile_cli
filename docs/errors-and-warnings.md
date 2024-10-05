@@ -6,4 +6,5 @@ Save data file does not exist. If data is being saved to file, it will be create
 
 ## "Board does not exist"
 
-Given board does not exist, command will immediately terminate.
+Given board does not exist. Command will immediately terminate.
+
